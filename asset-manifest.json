@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jschaefmn/flick-finder/static/css/main.e2c0b539.css",
+    "main.js": "/jschaefmn/flick-finder/static/js/main.c53080f1.js",
+    "static/js/787.e39afa79.chunk.js": "/jschaefmn/flick-finder/static/js/787.e39afa79.chunk.js",
+    "index.html": "/jschaefmn/flick-finder/index.html",
+    "main.e2c0b539.css.map": "/jschaefmn/flick-finder/static/css/main.e2c0b539.css.map",
+    "main.c53080f1.js.map": "/jschaefmn/flick-finder/static/js/main.c53080f1.js.map",
+    "787.e39afa79.chunk.js.map": "/jschaefmn/flick-finder/static/js/787.e39afa79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2c0b539.css",
+    "static/js/main.c53080f1.js"
+  ]
+}
